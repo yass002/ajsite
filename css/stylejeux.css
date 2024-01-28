@@ -1,0 +1,74 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+
+
+.titre{
+    text-align: center;
+    color: blue;
+    font-family: Papyrus, fantasy;
+}
+
+h1 > span{
+    font-style: italic;
+    font-size: xx-large;
+    text-transform: uppercase;
+   
+}
+.container-1 {
+   margin: 5px;
+    
+}
+.container-1 >*{
+    padding-left: 5px;
+    font-size: 15px;
+    
+}
+
+.smiley-img {
+    width: 24px;
+    height: auto;
+  }
+
+ul>li{
+    list-style: square;
+}
+.navigation{
+    display: flex;
+    justify-content: space-around ;
+
+}
+
+#c1{
+    font-weight: bold;
+    color:blue;
+    font-family: cursive;
+}
+#c2{
+    font-weight: italic;
+    color:green;
+}
+.first-section{
+    display: flex;
+    
+}
+h6{
+    margin: 0;
+    font-weight: 800;
+    font-size: 15px;
+}
+
+img[src$="charade.png"]{
+    height: 50px;
+    width: 50px;
+}
+
+.text-float{
+margin-left: 50px;
+
+}
+ul > li {
+    font-weight: bold;
+    font-size: 12px;
+}
